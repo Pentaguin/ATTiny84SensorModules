@@ -4,5 +4,6 @@
  It runs in power down mode to conserve energy comsuption and use Pin Change Interrupt to detect the sensor changes.
  
  It is written using Platform IO in visual studio code.
- 
- https://github.com/Pentaguin/ATTiny84SensorModules/blob/main/Sensormodules%20Breadboard.jpg
+
+<img src="Sensormodules%20Breadboard.jpg" width="500" height ="500">
+
